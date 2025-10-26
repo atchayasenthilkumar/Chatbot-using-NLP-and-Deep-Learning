@@ -53,6 +53,3 @@ To build an intelligent and interactive chatbot capable of understanding and res
 * E-commerce Product Support
 
 
----
-
-Feel free to customize the chatbot by modifying `intents.json` and retraining the model!
